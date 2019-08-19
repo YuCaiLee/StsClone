@@ -19,3 +19,7 @@ function load3(){
 	var v = a.a;
 	alert(v);
 }
+
+function test1(){
+	alert("test1");
+}
