@@ -26,4 +26,5 @@ function test1(){
 
 function test2(){
 	alert("test1");
+	alert("test2");
 }
